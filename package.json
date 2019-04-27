@@ -7,12 +7,12 @@
     "start": "./node_modules/.bin/electron main.js"
   },
   "devDependencies": {
-    "electron-prebuilt": "^0.34.3",
+    "electron-prebuilt": "^0.34.5",
     "electron-rebuild": "^1.0.2"
   },
   "dependencies": {
     "jquery": "^2.1.4",
-    "mbtiles": "^0.8.2",
+    "@mapbox/mbtiles": "^0.10.0",
     "tessera": "^0.5.3",
     "tilelive": "^5.11.0",
     "tilelive-tmstyle": "^0.4.2",
